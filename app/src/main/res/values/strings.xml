@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="name">Nama</string>
+    <string name="username">Usename</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search here</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="favorites">Favorite</string>
+    <string name="key_alarm">alarm</string>
+    <string name="onoff_alarm">Reminder at 9.00 AM</string>
+    <string name="settings">Setting</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+</resources>
+
+

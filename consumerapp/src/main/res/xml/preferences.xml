@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="true"
+    android:background="@color/colorBackground">
+    <SwitchPreference
+        android:background="@color/colorBackground"
+        android:defaultValue="false"
+        android:icon="@drawable/baseline_alarm_black_24"
+        android:key="@string/key_alarm"
+        android:title="@string/onoff_alarm"
+        app:iconSpaceReserved="true" />
+
+</PreferenceScreen>
